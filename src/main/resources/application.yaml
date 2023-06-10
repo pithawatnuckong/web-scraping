@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 467825
+    url: jdbc:mysql://localhost:3306/feehistory
+
+server:
+  port: 8080
